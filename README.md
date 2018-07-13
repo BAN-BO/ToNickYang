@@ -18,17 +18,17 @@ Python3.6.6 + OpenCV 3.4.1+Dlib
 
 ##### demo文件运行结果：
 
-![](C:\Users\TING\code\python code\ToNickYang\img\1.png)
+![](.\img\1.png)
 
 ##### get_face_picture文件运行结果：
 
-![](C:\Users\TING\code\python code\ToNickYang\img\2.png)
+![](.\img\2.png)
 
  ##### shutil文件运行结果：
 
-![](C:\Users\TING\code\python code\ToNickYang\img\3.jpg)
+![](.\img\3.jpg)
 
  ##### get_tiome文件运行结果：
 
-![](C:\Users\TING\code\python code\ToNickYang\img\4.jpg)
+![](.\img\4.jpg)
 
