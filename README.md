@@ -32,3 +32,6 @@ Python3.6.6 + OpenCV 3.4.1+Dlib
 
 ![](.\img\4.jpg)
 
+
+
+emmmm。。。图片一直放不上去，直接到img文件夹下看吧，比心~
