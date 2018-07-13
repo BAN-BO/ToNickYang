@@ -8,3 +8,27 @@ shutil目前截取图像最少但是是全部的图像
 
 demo把每一帧都提取出来会有很多相似的冗余
 
+
+
+#### 环境需求：
+
+Python3.6.6 + OpenCV 3.4.1+Dlib
+
+配好环境就可以直接运行啦，下面是效果图：
+
+##### demo文件运行结果：
+
+![](C:\Users\TING\code\python code\ToNickYang\img\1.png)
+
+##### get_face_picture文件运行结果：
+
+![](C:\Users\TING\code\python code\ToNickYang\img\2.png)
+
+ ##### shutil文件运行结果：
+
+![](C:\Users\TING\code\python code\ToNickYang\img\3.jpg)
+
+ ##### get_tiome文件运行结果：
+
+![](C:\Users\TING\code\python code\ToNickYang\img\4.jpg)
+
