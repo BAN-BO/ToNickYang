@@ -10,7 +10,37 @@ demo把每一帧都提取出来会有很多相似的冗余
 
 
 
+### 前情提要：
+
+需要安装一些软件：
+
+1、python3.6
+
+2、python支持库:
+
+numpy:
+
+```
+pip install numpy
+```
+
+opencv:
+
+```
+pip install opencv-python
+```
+
+dlib:
+
+```
+pip install dlib
+```
+
+
+
 #### 环境需求：
+
+系统: window或linux
 
 Python3.6.6 + OpenCV 3.4.1+Dlib
 
